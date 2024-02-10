@@ -1,0 +1,9 @@
+ErrorDocument 404 /404.html
+AddDefaultCharset UTF-8
+Header unset ETag
+FileETag None
+
+Options +FollowSymLinks -MultiViews
+# Turn mod_rewrite on
+RewriteEngine On
+RewriteBase /
