@@ -3,6 +3,7 @@ node_modules/
 
 # Build files
 content/.vitepress/dist/
+package-lock.json
 
 # Cache files
 content/.vitepress/cache/
