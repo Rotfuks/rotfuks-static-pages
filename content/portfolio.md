@@ -21,6 +21,9 @@ If you want to know more about the listed things or things, I did not list here,
 **GraphQL** – Eine Einführung in APIs mit GraphQL\
 2020, on [dpunkt.verlag](https://dpunkt.de/produkt/graphql/)
 
+**How Platform-as-a-Product Drives Cloud-Native Platform Maturity**
+2024, on [Cloud Native Now](https://cloudnativenow.com/topics/how-platform-as-a-product-drives-cloud-native-platform-maturity/)
+
 **Telepresence als Tooltipp** - Kubernetes-Applikation lokal entwickeln\
 2024, on [iX Magazin/heise+](https://www.heise.de/ratgeber/Telepresence-als-Tooltipp-Kubernetes-Applikation-lokal-entwickeln-9613303.html)
 

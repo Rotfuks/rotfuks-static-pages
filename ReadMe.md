@@ -32,7 +32,7 @@ I'm just pushing the static website with ftp to a static hoster, pretty cheap.
 You can use `ncftpput` for doing that ftp push in the command line (or in an Automation Pipeline)
 
 ```
- ncftpput -R -v -u "deploy-service" -p ${pwd} ftp.rotfuks.de / /app/content/.vitepress/dist/*
+ ncftpput -R -v -u "deploy-service" -p ${pwd} ftp.rotfuks.de / content/.vitepress/dist/*
 ```
 
 But you should really change the ftp target to your own website (still - why would you want to do this? Write me :D)
