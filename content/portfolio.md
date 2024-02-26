@@ -18,10 +18,7 @@ If you want to know more about the listed things or things, I did not list here,
 
 ## Publications
 
-**GraphQL** – Eine Einführung in APIs mit GraphQL\
-2020, on [dpunkt.verlag](https://dpunkt.de/produkt/graphql/)
-
-**How Platform-as-a-Product Drives Cloud-Native Platform Maturity**
+**How Platform-as-a-Product Drives Cloud-Native Platform Maturity**\
 2024, on [Cloud Native Now](https://cloudnativenow.com/topics/how-platform-as-a-product-drives-cloud-native-platform-maturity/)
 
 **Telepresence als Tooltipp** - Kubernetes-Applikation lokal entwickeln\
@@ -46,12 +43,15 @@ Part 3, Cloud Deployment mit GitHub Actions: 2022, in [iX Ausgabe 9.2022](https:
 **Vom Entwickler zum Produkt Owner** - Der Produktwerker Podcast\
 2021, Guest on [Product Werker Podcast](https://produktwerker.de/vom-entwickler-zum-produkt-owner/)
 
+**Why do so many companies have a hard time getting new IT Specialists?**\
+2021, on [Medium](https://rotfuks.medium.com/why-do-so-many-companies-have-a-hard-time-getting-new-it-specialists-31af77e8622)
+
 **GraphQL als API-Gateway** - 2 part tutorial series on API-Gateways with GraphQL\
 Part 1: Grundlagen, Theorie, Design. 2021, on [heise.de](https://www.heise.de/hintergrund/GraphQL-als-API-Gateway-Teil-1-Grundlagen-Theorie-Design-6049124.html)
 Part 2: Technische Beispielimplementierung. 2021,  on [heise.de](https://www.heise.de/hintergrund/GraphQL-als-API-Gateway-Teil-2-Technische-Beispielimplementierung-6063845.html)
 
-**Why do so many companies have a hard time getting new IT Specialists?**\
-2021, on [Medium](https://rotfuks.medium.com/why-do-so-many-companies-have-a-hard-time-getting-new-it-specialists-31af77e8622)
+**GraphQL** – Eine Einführung in APIs mit GraphQL **- Book**\
+2020, on [dpunkt.verlag](https://dpunkt.de/produkt/graphql/)
 
 
 ## Events & Talks
