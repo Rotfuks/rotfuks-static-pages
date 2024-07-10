@@ -18,7 +18,11 @@ If you want to know more about the listed things or things, I did not list here,
 
 ## Publications
 
+**Product Thinking for Platforms**
+2024, on [Cloud Native Computing Foundation Blog](https://tag-app-delivery.cncf.io/blog/product-thinking-for-platforms/)
+
 **How Platform-as-a-Product Drives Cloud-Native Platform Maturity**\
+2024, on [Giant Swarm Blog](https://www.giantswarm.io/blog/maximizing-value-with-kubernetes-as-a-product-fulfilling-the-promise-of-the-cloud)
 2024, on [Cloud Native Now](https://cloudnativenow.com/topics/how-platform-as-a-product-drives-cloud-native-platform-maturity/)
 
 **Telepresence als Tooltipp** - Kubernetes-Applikation lokal entwickeln\
@@ -55,6 +59,15 @@ Part 2: Technische Beispielimplementierung. 2021,  on [heise.de](https://www.hei
 
 
 ## Events & Talks
+
+**What the Heck is Platform-as-a-Product? - How Product Thinking drives your platform maturity**
+2024, at [ContainerDays Conference](https://www.containerdays.io/containerdays-conference-2024/agenda/)
+
+**What the Heck is the CNCF Platform Working Group? Answers from a Member!**
+2024, at [Pulumi User Group Meetup](https://www.meetup.com/de-DE/berlin-pulumi-user-group/events/301456990/)
+
+**CNCF Platform WG: Platform-as-a-Product**
+2024, at [Platformers Community Podcast](https://www.youtube.com/watch?v=Xw4ruQCFk6g)
 
 **Infrastruktur als Produkt:** Transparenter Wert selbst in komplexesten Umgebungen\
 2024, at [Inside Agile Online Conference](https://asu.inside-agile.de/veranstaltung-21484-se-0-effektives-produktmanagement-in-technisch-anspruchsvollen-umgebungen-infrastruktur-als-produkt.html)\
