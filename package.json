@@ -5,6 +5,7 @@
     "docs:preview": "vitepress preview content"
   },
   "dependencies": {
+    "@fortawesome/vue-fontawesome": "^3.0.8",
     "vue": "^3.4.18",
     "vuepress-vite": "^2.0.0-rc.0",
     "vuetify": "^3.5.3"

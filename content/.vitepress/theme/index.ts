@@ -11,6 +11,9 @@ import * as components from 'vuetify/components'
 import * as directives from 'vuetify/directives'
 import '@mdi/font/css/materialdesignicons.css'
 
+/* import font awesome icon component */
+import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
+
 const vuetify = createVuetify({
   components,
   directives,
@@ -24,6 +27,7 @@ export default {
   // injects the slots
   Layout: MyLayout,
   enhanceApp({ app, router, siteData }) {
+    app.component('font-awesome-icon', FontAwesomeIcon)
     app.use(vuetify)
   }
 } satisfies Theme
