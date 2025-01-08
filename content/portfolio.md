@@ -18,6 +18,12 @@ If you want to know more about the listed things or things, I did not list here,
 
 ## Publications
 
+**Introducing the Observability Platform**\
+2024, on [Giant Swarm Blog](https://www.giantswarm.io/blog/introducing-the-observability-platform)
+
+**Platform as a Product Research** - Now with a Survey!\
+2024, on [Cloud Native Computing Foundation Blog](https://tag-app-delivery.cncf.io/blog/call-participation-paap-survey/)
+
 **Product Thinking for Platforms**\
 2024, on [Cloud Native Computing Foundation Blog](https://tag-app-delivery.cncf.io/blog/product-thinking-for-platforms/)
 
@@ -35,7 +41,6 @@ If you want to know more about the listed things or things, I did not list here,
 Part 1, Einstieg in GitHub Actions: 2022, in [iX Ausgabe 7.2022](https://shop.heise.de/ix-07-2022/Print) or [on heise+.](https://www.heise.de/ratgeber/Softwareentwicklung-Einstieg-in-GitHub-Actions-7148260.html)\
 Part 2, GitHub Actions und Container-Registries: 2022, in [iX Ausgabe 8.2022](https://shop.heise.de/ix-08-2022/Print) or [on heise+.](https://www.heise.de/ratgeber/Wie-Sie-Container-mit-GitHub-Actions-automatisiert-publizieren-7184373.html)\
 Part 3, Cloud Deployment mit GitHub Actions: 2022, in [iX Ausgabe 9.2022](https://shop.heise.de/ix-09-2022/Print) or [on heise+.](https://www.heise.de/ratgeber/So-funktioniert-Cloud-Deployment-mit-GitHub-Actions-7244444.html)
-
 
 **Die Cloud hat viele Gesichter** - Cloud Foundry: Eine Open-Source-Cloud-Plattfrom als einfache Alternative zu Kubernetes\
 2022, in [JavaMagazin Ausgabe 2.2022](https://entwickler.de/magazine-ebooks/java-magazin/java-magazin-22022)
@@ -60,11 +65,15 @@ Part 2: Technische Beispielimplementierung. 2021,  on [heise.de](https://www.hei
 
 ## Events & Talks
 
-**What the Heck is Platform-as-a-Product?** How Product Thinking drives your platform maturity\
-2024, at [ContainerDays Conference](https://www.containerdays.io/containerdays-conference-2024/agenda/)
+**Sustainability and the Cloud**\
+2024, at [Continuous Lifecycle/ContainerConf](https://www.continuouslifecycle.de/veranstaltung-22288-0-nachhaltigkeit-in-der-cloud.html)
+2024, at [Pulumi User Group Meetup](https://www.meetup.com/de-DE/berlin-pulumi-user-group/events/304081553/)
 
-**What the Heck is the CNCF Platform Working Group?** Answers from a Member!\
-2024, at [Pulumi User Group Meetup](https://www.meetup.com/de-DE/berlin-pulumi-user-group/events/301456990/)
+**What the Heck is Platform-as-a-Product?** How Product Thinking drives your platform maturity\
+2024, at [ContainerDays Conference](https://www.youtube.com/watch?v=t5LCrTxPDgQ)
+
+**What the Heck is the CNCF Platform Working Group?** Insights from a CNCF Platform Working Group Member!\
+2024, at [Pulumi User Group Meetup](https://www.youtube.com/watch?v=NUPK5CCm6XA)
 
 **CNCF Platform WG: Platform-as-a-Product**\
 2024, at [Platformers Community Podcast](https://www.youtube.com/watch?v=Xw4ruQCFk6g)
