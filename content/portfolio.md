@@ -66,7 +66,7 @@ Part 2: Technische Beispielimplementierung. 2021,  on [heise.de](https://www.hei
 ## Events & Talks
 
 **Sustainability and the Cloud**\
-2024, at [Continuous Lifecycle/ContainerConf](https://www.continuouslifecycle.de/veranstaltung-22288-0-nachhaltigkeit-in-der-cloud.html)
+2024, at [Continuous Lifecycle/ContainerConf](https://www.continuouslifecycle.de/veranstaltung-22288-0-nachhaltigkeit-in-der-cloud.html)\
 2024, at [Pulumi User Group Meetup](https://www.meetup.com/de-DE/berlin-pulumi-user-group/events/304081553/)
 
 **What the Heck is Platform-as-a-Product?** How Product Thinking drives your platform maturity\
