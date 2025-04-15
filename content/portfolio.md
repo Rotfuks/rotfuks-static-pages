@@ -56,7 +56,7 @@ Part 3, Cloud Deployment mit GitHub Actions: 2022, in [iX Ausgabe 9.2022](https:
 2021, on [Medium](https://rotfuks.medium.com/why-do-so-many-companies-have-a-hard-time-getting-new-it-specialists-31af77e8622)
 
 **GraphQL als API-Gateway** - 2 part tutorial series on API-Gateways with GraphQL\
-Part 1: Grundlagen, Theorie, Design. 2021, on [heise.de](https://www.heise.de/hintergrund/GraphQL-als-API-Gateway-Teil-1-Grundlagen-Theorie-Design-6049124.html)
+Part 1: Grundlagen, Theorie, Design. 2021, on [heise.de](https://www.heise.de/hintergrund/GraphQL-als-API-Gateway-Teil-1-Grundlagen-Theorie-Design-6049124.html)\
 Part 2: Technische Beispielimplementierung. 2021,  on [heise.de](https://www.heise.de/hintergrund/GraphQL-als-API-Gateway-Teil-2-Technische-Beispielimplementierung-6063845.html)
 
 **GraphQL** – Eine Einführung in APIs mit GraphQL **- Book**\
@@ -64,6 +64,15 @@ Part 2: Technische Beispielimplementierung. 2021,  on [heise.de](https://www.hei
 
 
 ## Events & Talks
+
+**You don’t need to be Linus Torvalds** - Open Source contributions for non-tech people\
+2025, at [Open Source @ Siemens](https://opensource.siemens.com/events/2025/#june-4th)
+
+**Platform-as-a-Product** - First insights from CNCF Platform Working Group's ongoing research\
+2025, at [KubeCon CoLocated Platform Engineering Day](https://colocatedeventseu2025.sched.com/event/1u5lr/platform-as-a-product-first-insights-from-cncf-platform-working-groups-ongoing-research-dominik-kress-giant-swarm-david-stenglein-missing-mass-llc?iframe=yes&w=100%&sidebar=yes&bg=no)
+
+**Platform-as-a-Product** - Wieso Produktdenken deine (Cloud-)Plattform besser macht!\
+2025, at [Navigate Congress](https://www.youtube.com/watch?v=h3AXyHngm38)
 
 **Sustainability and the Cloud**\
 2024, at [Continuous Lifecycle/ContainerConf](https://www.continuouslifecycle.de/veranstaltung-22288-0-nachhaltigkeit-in-der-cloud.html)\
@@ -74,6 +83,9 @@ Part 2: Technische Beispielimplementierung. 2021,  on [heise.de](https://www.hei
 
 **What the Heck is the CNCF Platform Working Group?** Insights from a CNCF Platform Working Group Member!\
 2024, at [Pulumi User Group Meetup](https://www.youtube.com/watch?v=NUPK5CCm6XA)
+
+**Maximizing Value with Kubernetes as a Product** - Fulfilling the promise of the cloud\
+2024, at [Berlin Kubernetes and Cloud Native Meetup](https://www.youtube.com/watch?v=lxUNUh9sWSI&t=4720s) 
 
 **CNCF Platform WG: Platform-as-a-Product**\
 2024, at [Platformers Community Podcast](https://www.youtube.com/watch?v=Xw4ruQCFk6g)

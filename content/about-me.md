@@ -20,12 +20,13 @@ Want to know more? Alright then, here is my CV. Get in touch if you want to know
 
 ## Practical Experience
 
-Since 10/2022 **Product Manager Kubernetes Platform**\
+Since 10/2022 **Product Manager Observability Platform**\
 *Giant Swarm GmbH*
-* Created a new Kubernetes Foundation team and aligned team and organisation on a compelling vision driving outcome focus.
-* Reduced friction and pain around releases by reshaping and aligning on a common release process across all teams and customers.
+* Took over the monitoring team and moved the product from a internal-only monitoring stack to a customer centric observability platform, solving adoption issues through value-driven development.
+* Helped with the overall re-positioning of our organisation on the market by creating a more modular, flexible offering to reduce onboarding hurdles for prospects.
+* Created a new Kubernetes Foundation team and aligned team and organisation on a compelling vision driving outcome focus and cross-team collaboration for key-processes like releases. 
 * Introduced a new Infrastructure Provider for our Platform Product allowing us to onboard a new key account to Microsoft's Azure Cloud.
-* Helped shape our internal product management practice, product marketing, product-revenue-alignment and events by contributing to multiple internal community-of-practices. 
+* Helped shape our internal product management practice, product-revenue-alignment, product marketing and branding by contributing to multiple internal community-of-practices and external events. 
 
 <hr/>
 
