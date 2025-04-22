@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Rotfuks - Dominik Kress",
+  title: "Rotfuks - Dominik Schmidle",
   description: "My Personal Website",
   cleanUrls: true,
   themeConfig: {
