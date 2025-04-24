@@ -65,7 +65,8 @@ Part 2: Technische Beispielimplementierung. 2021,  on [heise.de](https://www.hei
 
 ## Events & Talks
 
-**Think Big: Monitoring Stack war gestern** - Observability Platform at scale!\
+**Think Big: Monitoring Stack was yesterday** - Observability Platform at scale!\
+2025, at [Cloud Native Summit Munich](https://cloudnativesummit.de/schedule/)\
 2025, at [Mastering Observability](https://www.mastering-obs.de/veranstaltung-83481-se-0-think-big-monitoring-stack-war-gestern--observability-platform-at-scale.html)
 
 **You don’t need to be Linus Torvalds** - Open Source contributions for non-tech people\
