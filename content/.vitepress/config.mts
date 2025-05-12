@@ -17,7 +17,7 @@ export default defineConfig({
     sidebar: [],
 
     socialLinks: [
-      { icon: 'linkedin', link: 'https://www.linkedin.com/in/dominik-kress-33a540174/' }
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/dominik-schmidle-33a540174/' }
     ],
 
     aside: false,

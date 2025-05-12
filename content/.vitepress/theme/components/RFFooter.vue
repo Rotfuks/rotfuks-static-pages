@@ -37,7 +37,7 @@
     text: "Portfolio"
   },{
     name: "mdi-linkedin",
-    href: "https://www.linkedin.com/in/dominik-kress-33a540174/",
+    href: "https://www.linkedin.com/in/dominik-schmidle-33a540174/",
     target: "_blank",
     text: "LinkedIn"
   }];
