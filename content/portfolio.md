@@ -18,6 +18,20 @@ If you want to know more about the listed things or things, I did not list here,
 
 ## Publications
 
+**AI Took My Job... And I Let It (A PM's Field Report)**\
+2025, on [LinkedIn Blog](https://www.linkedin.com/pulse/ai-took-my-job-i-let-pms-field-report-dominik-schmidle-udkre/)
+
+**Platform engineering: fitness plan for developer platforms**\
+2025, in english on [heise.de/en](https://www.heise.de/en/background/Platform-engineering-fitness-plan-for-developer-platforms-10397214.html)\
+2025, in german on [heise.de](https://www.heise.de/hintergrund/Platform-Engineering-Fitnessplan-fuer-Entwicklerplattformen-10376910.html)
+
+**Platform Engineering: From rainbow team to mature platform**\
+2025, in english on [heise.de/en](https://www.heise.de/en/background/Platform-Engineering-From-rainbow-team-to-mature-platform-10397232.html)\
+2025, in german on [heise.de](https://www.heise.de/hintergrund/Platform-Engineering-Vom-Regenbogenteam-zur-reiferen-Plattform-10386798.html)
+
+**Developer-Plattformen systematisch bewerten**\
+2025, on [iX Magazin/heise+](https://www.heise.de/select/ix/2025/9/2519712195362330446)
+
 **Introducing the Observability Platform**\
 2024, on [Giant Swarm Blog](https://www.giantswarm.io/blog/introducing-the-observability-platform)
 
@@ -66,14 +80,23 @@ Part 2: Technische Beispielimplementierung. 2021,  on [heise.de](https://www.hei
 ## Events & Talks
 
 **Think Big: Monitoring Stack was yesterday** - Observability Platform at scale!\
-2025, at [Cloud Native Summit Munich](https://cloudnativesummit.de/schedule/)\
+2025, at [OpenSourceMonitoringConference](https://www.youtube.com/watch?v=rRZJaO8-8IE)\
+2025, at [Cloud Native Summit Munich](https://www.youtube.com/watch?v=SDelo4VdPUk)\
+2025, at [CLC Conference](https://clc-conference.eu/veranstaltung-83856-0-think-big-monitoring-stack-was-yesterday--observability-platform-at-scale.html)\
 2025, at [Mastering Observability](https://www.mastering-obs.de/veranstaltung-83481-se-0-think-big-monitoring-stack-war-gestern--observability-platform-at-scale.html)
 
-**You don’t need to be Linus Torvalds** - Open Source contributions for non-tech people\
-2025, at [Open Source @ Siemens](https://opensource.siemens.com/events/2025/#june-4th)
+**Product Thinking for Cloud Native Engineers**\
+2025, at [Cloud Native Summit Munich](https://www.youtube.com/watch?v=g-sZwa52DNE)
 
-**Platform-as-a-Product** - First insights from CNCF Platform Working Group's ongoing research\
-2025, at [KubeCon CoLocated Platform Engineering Day](https://www.youtube.com/watch?v=DoiaHfl9Y7Y)
+**Platform-as-a-Product:** First Insights from CNCF Platform Working Group's Ongoing Research\
+2025, at [KubeCon: Platform Egnineering CoLo Day](https://www.youtube.com/watch?v=DoiaHfl9Y7Y)\
+2025, at [ContainerDays Hamburg](https://www.youtube.com/watch?v=byj_4Wg8zjM)
+
+**Product Discovery?** Geht nicht, mein Produkt ist 'ne API!\
+2025, at [Crafting Products Meetup](https://www.meetup.com/de-de/crafting-products-meetup/events/310935455/?eventOrigin=group_events_list)
+
+**You don’t need to be Linus Torvalds** - Open Source contributions for non-tech people\
+2025, at [Open Source @ Siemens](https://www.youtube.com/watch?v=6-JV5g1Hzwk)
 
 **Platform-as-a-Product** - Wieso Produktdenken deine (Cloud-)Plattform besser macht!\
 2025, at [Navigate Congress](https://www.youtube.com/watch?v=h3AXyHngm38)
