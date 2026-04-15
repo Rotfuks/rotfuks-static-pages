@@ -16,68 +16,10 @@ If you want to know more about the listed things or things, I did not list here,
   </v-col>         
 </v-row>
 
-## Publications
-
-**AI Took My Job... And I Let It (A PM's Field Report)**\
-2025, on [LinkedIn Blog](https://www.linkedin.com/pulse/ai-took-my-job-i-let-pms-field-report-dominik-schmidle-udkre/)
-
-**Platform engineering: fitness plan for developer platforms**\
-2025, in english on [heise.de/en](https://www.heise.de/en/background/Platform-engineering-fitness-plan-for-developer-platforms-10397214.html)\
-2025, in german on [heise.de](https://www.heise.de/hintergrund/Platform-Engineering-Fitnessplan-fuer-Entwicklerplattformen-10376910.html)
-
-**Platform Engineering: From rainbow team to mature platform**\
-2025, in english on [heise.de/en](https://www.heise.de/en/background/Platform-Engineering-From-rainbow-team-to-mature-platform-10397232.html)\
-2025, in german on [heise.de](https://www.heise.de/hintergrund/Platform-Engineering-Vom-Regenbogenteam-zur-reiferen-Plattform-10386798.html)
-
-**Developer-Plattformen systematisch bewerten**\
-2025, on [iX Magazin/heise+](https://www.heise.de/select/ix/2025/9/2519712195362330446)
-
-**Introducing the Observability Platform**\
-2024, on [Giant Swarm Blog](https://www.giantswarm.io/blog/introducing-the-observability-platform)
-
-**Platform as a Product Research** - Now with a Survey!\
-2024, on [Cloud Native Computing Foundation Blog](https://tag-app-delivery.cncf.io/blog/call-participation-paap-survey/)
-
-**Product Thinking for Platforms**\
-2024, on [Cloud Native Computing Foundation Blog](https://tag-app-delivery.cncf.io/blog/product-thinking-for-platforms/)
-
-**How Platform-as-a-Product Drives Cloud-Native Platform Maturity**\
-2024, on [Giant Swarm Blog](https://www.giantswarm.io/blog/maximizing-value-with-kubernetes-as-a-product-fulfilling-the-promise-of-the-cloud)\
-2024, on [Cloud Native Now](https://cloudnativenow.com/topics/how-platform-as-a-product-drives-cloud-native-platform-maturity/)
-
-**Telepresence als Tooltipp** - Kubernetes-Applikation lokal entwickeln\
-2024, on [iX Magazin/heise+](https://www.heise.de/ratgeber/Telepresence-als-Tooltipp-Kubernetes-Applikation-lokal-entwickeln-9613303.html)
-
-**Maximizing Value with Kubernetes-as-a-Product** - Scaling the Mountain of Possibilities\
-2023, on [VMBlog](https://vmblog.com/archive/2023/10/10/maximizing-value-with-kubernetes-as-a-product-scaling-the-mountain-of-possibilities.aspx)
-
-**Einstieg in GitHub Actions** - 3 part tutorial series on CI/CD with GitHub Actions\
-Part 1, Einstieg in GitHub Actions: 2022, in [iX Ausgabe 7.2022](https://shop.heise.de/ix-07-2022/Print) or [on heise+.](https://www.heise.de/ratgeber/Softwareentwicklung-Einstieg-in-GitHub-Actions-7148260.html)\
-Part 2, GitHub Actions und Container-Registries: 2022, in [iX Ausgabe 8.2022](https://shop.heise.de/ix-08-2022/Print) or [on heise+.](https://www.heise.de/ratgeber/Wie-Sie-Container-mit-GitHub-Actions-automatisiert-publizieren-7184373.html)\
-Part 3, Cloud Deployment mit GitHub Actions: 2022, in [iX Ausgabe 9.2022](https://shop.heise.de/ix-09-2022/Print) or [on heise+.](https://www.heise.de/ratgeber/So-funktioniert-Cloud-Deployment-mit-GitHub-Actions-7244444.html)
-
-**Die Cloud hat viele Gesichter** - Cloud Foundry: Eine Open-Source-Cloud-Plattfrom als einfache Alternative zu Kubernetes\
-2022, in [JavaMagazin Ausgabe 2.2022](https://entwickler.de/magazine-ebooks/java-magazin/java-magazin-22022)
-2022, in [Windows.developer Magazin Ausgabe 4.2022](https://entwickler.de/magazine-ebooks/windows-developer/windows-developer-42022)
-
-**The Future of Cloud is Abstraction**\
-2022, on [SchwarzIT Techblog](https://techblog.schwarz/posts/the-future-of-the-cloud-is-abstraction/)
-
-**Vom Entwickler zum Produkt Owner** - Der Produktwerker Podcast\
-2021, Guest on [Product Werker Podcast](https://produktwerker.de/vom-entwickler-zum-produkt-owner/)
-
-**Why do so many companies have a hard time getting new IT Specialists?**\
-2021, on [Medium](https://rotfuks.medium.com/why-do-so-many-companies-have-a-hard-time-getting-new-it-specialists-31af77e8622)
-
-**GraphQL als API-Gateway** - 2 part tutorial series on API-Gateways with GraphQL\
-Part 1: Grundlagen, Theorie, Design. 2021, on [heise.de](https://www.heise.de/hintergrund/GraphQL-als-API-Gateway-Teil-1-Grundlagen-Theorie-Design-6049124.html)\
-Part 2: Technische Beispielimplementierung. 2021,  on [heise.de](https://www.heise.de/hintergrund/GraphQL-als-API-Gateway-Teil-2-Technische-Beispielimplementierung-6063845.html)
-
-**GraphQL** – Eine Einführung in APIs mit GraphQL **- Book**\
-2020, on [dpunkt.verlag](https://dpunkt.de/produkt/graphql/)
-
-
 ## Events & Talks
+
+**Overwhelmed by Scale:** - How Product Thinking Fixes Platform Teams\
+2026, at [KubeCon: Platform Egnineering CoLo Day](https://www.youtube.com/watch?v=3tXR74tbAc4)
 
 **Think Big: Monitoring Stack was yesterday** - Observability Platform at scale!\
 2025, at [OpenSourceMonitoringConference](https://www.youtube.com/watch?v=rRZJaO8-8IE)\
@@ -143,6 +85,68 @@ Part 2: Technische Beispielimplementierung. 2021,  on [heise.de](https://www.hei
 **Vue.js mit TypeScript**\
 2018, at [Vue.js MeetUp Stuttgart #1](https://www.meetup.com/de-DE/Stuttgart-Vue-js-Meetup/events/256448251)
 
+## Publications
+
+**See everything, own your data: the Giant Swarm Observability Platform**\
+2026, on [GiantSwarm Blog](https://www.giantswarm.io/blog/see-everything-own-your-data-the-giant-swarm-observability-platform)
+
+**AI Took My Job... And I Let It (A PM's Field Report)**\
+2025, on [LinkedIn Blog](https://www.linkedin.com/pulse/ai-took-my-job-i-let-pms-field-report-dominik-schmidle-udkre/)
+
+**Platform engineering: fitness plan for developer platforms**\
+2025, in english on [heise.de/en](https://www.heise.de/en/background/Platform-engineering-fitness-plan-for-developer-platforms-10397214.html)\
+2025, in german on [heise.de](https://www.heise.de/hintergrund/Platform-Engineering-Fitnessplan-fuer-Entwicklerplattformen-10376910.html)
+
+**Platform Engineering: From rainbow team to mature platform**\
+2025, in english on [heise.de/en](https://www.heise.de/en/background/Platform-Engineering-From-rainbow-team-to-mature-platform-10397232.html)\
+2025, in german on [heise.de](https://www.heise.de/hintergrund/Platform-Engineering-Vom-Regenbogenteam-zur-reiferen-Plattform-10386798.html)
+
+**Developer-Plattformen systematisch bewerten**\
+2025, on [iX Magazin/heise+](https://www.heise.de/select/ix/2025/9/2519712195362330446)
+
+**Introducing the Observability Platform**\
+2024, on [Giant Swarm Blog](https://www.giantswarm.io/blog/introducing-the-observability-platform)
+
+**Platform as a Product Research** - Now with a Survey!\
+2024, on [Cloud Native Computing Foundation Blog](https://tag-app-delivery.cncf.io/blog/call-participation-paap-survey/)
+
+**Product Thinking for Platforms**\
+2024, on [Cloud Native Computing Foundation Blog](https://tag-app-delivery.cncf.io/blog/product-thinking-for-platforms/)
+
+**How Platform-as-a-Product Drives Cloud-Native Platform Maturity**\
+2024, on [Giant Swarm Blog](https://www.giantswarm.io/blog/maximizing-value-with-kubernetes-as-a-product-fulfilling-the-promise-of-the-cloud)\
+2024, on [Cloud Native Now](https://cloudnativenow.com/topics/how-platform-as-a-product-drives-cloud-native-platform-maturity/)
+
+**Telepresence als Tooltipp** - Kubernetes-Applikation lokal entwickeln\
+2024, on [iX Magazin/heise+](https://www.heise.de/ratgeber/Telepresence-als-Tooltipp-Kubernetes-Applikation-lokal-entwickeln-9613303.html)
+
+**Maximizing Value with Kubernetes-as-a-Product** - Scaling the Mountain of Possibilities\
+2023, on [VMBlog](https://vmblog.com/archive/2023/10/10/maximizing-value-with-kubernetes-as-a-product-scaling-the-mountain-of-possibilities.aspx)
+
+**Einstieg in GitHub Actions** - 3 part tutorial series on CI/CD with GitHub Actions\
+Part 1, Einstieg in GitHub Actions: 2022, in [iX Ausgabe 7.2022](https://shop.heise.de/ix-07-2022/Print) or [on heise+.](https://www.heise.de/ratgeber/Softwareentwicklung-Einstieg-in-GitHub-Actions-7148260.html)\
+Part 2, GitHub Actions und Container-Registries: 2022, in [iX Ausgabe 8.2022](https://shop.heise.de/ix-08-2022/Print) or [on heise+.](https://www.heise.de/ratgeber/Wie-Sie-Container-mit-GitHub-Actions-automatisiert-publizieren-7184373.html)\
+Part 3, Cloud Deployment mit GitHub Actions: 2022, in [iX Ausgabe 9.2022](https://shop.heise.de/ix-09-2022/Print) or [on heise+.](https://www.heise.de/ratgeber/So-funktioniert-Cloud-Deployment-mit-GitHub-Actions-7244444.html)
+
+**Die Cloud hat viele Gesichter** - Cloud Foundry: Eine Open-Source-Cloud-Plattfrom als einfache Alternative zu Kubernetes\
+2022, in [JavaMagazin Ausgabe 2.2022](https://entwickler.de/magazine-ebooks/java-magazin/java-magazin-22022)
+2022, in [Windows.developer Magazin Ausgabe 4.2022](https://entwickler.de/magazine-ebooks/windows-developer/windows-developer-42022)
+
+**The Future of Cloud is Abstraction**\
+2022, on [SchwarzIT Techblog](https://techblog.schwarz/posts/the-future-of-the-cloud-is-abstraction/)
+
+**Vom Entwickler zum Produkt Owner** - Der Produktwerker Podcast\
+2021, Guest on [Product Werker Podcast](https://produktwerker.de/vom-entwickler-zum-produkt-owner/)
+
+**Why do so many companies have a hard time getting new IT Specialists?**\
+2021, on [Medium](https://rotfuks.medium.com/why-do-so-many-companies-have-a-hard-time-getting-new-it-specialists-31af77e8622)
+
+**GraphQL als API-Gateway** - 2 part tutorial series on API-Gateways with GraphQL\
+Part 1: Grundlagen, Theorie, Design. 2021, on [heise.de](https://www.heise.de/hintergrund/GraphQL-als-API-Gateway-Teil-1-Grundlagen-Theorie-Design-6049124.html)\
+Part 2: Technische Beispielimplementierung. 2021,  on [heise.de](https://www.heise.de/hintergrund/GraphQL-als-API-Gateway-Teil-2-Technische-Beispielimplementierung-6063845.html)
+
+**GraphQL** – Eine Einführung in APIs mit GraphQL **- Book**\
+2020, on [dpunkt.verlag](https://dpunkt.de/produkt/graphql/)
 
 ## Coding
 
