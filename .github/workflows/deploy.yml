@@ -1,0 +1,43 @@
+name: Deploy to rotfuks.de
+
+# Build the VitePress site and push it to the FTP host on every change to main.
+on:
+  push:
+    branches: [main]
+  # Allow running the deploy manually from the Actions tab too.
+  workflow_dispatch:
+
+# Avoid overlapping deploys; a newer commit cancels an in-flight one.
+concurrency:
+  group: deploy-production
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build
+        run: npm run docs:build
+
+      # Syncs dist/ to the FTP root: uploads changed files, deletes removed
+      # ones, and only transfers what changed (tracked via a state file on the
+      # server). Pinned to a commit SHA rather than a moving tag for supply-chain safety.
+      - name: Deploy via FTP (sync)
+        uses: SamKirkland/FTP-Deploy-Action@110f9186c050f71550953127052e77650219c287 # v4.4.0
+        with:
+          server: ftp.rotfuks.de
+          username: deploy-service
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./content/.vitepress/dist/
+          server-dir: /
