@@ -5,57 +5,60 @@
     <img src="./assets/me.jpg" height="auto" width="400" style="border-radius:3%">
   </v-col>
 <v-col cols="12" lg="6" class="text-body-1" style="margin:auto;">
-Hey there! 
+Hey there! My name is Dominik.
 
-My name is Dominik. <br/>
-I am a passionate Product Manager with an engineering background and over 7 years experience in the IT industry. 
-And I am very dedicated to empower others through talks, blogs, workshops, and direct mentoring.
+I'm a Product Leader with an engineering background and over a decade in IT. My work sits at the intersection of product and complex technical platforms: PaaS, developer platforms, observability, and now agentic systems, which for me is the natural next step of platform engineering, taking it from empowering developers to empowering whole organizations. Product thinking is the through-line across all of them, and applying it well is what turns powerful technology into products people actually adopt.
 
-I love product management, product ops, cloud, people, improving lifes, good food, football, history and more. 
+Today I'm Group Product Manager for Platforms at Giant Swarm, leading strategy and go-to-market across five teams. Right now that means two things: reshaping how we sell with a modular offering customers can start small on and grow, and driving Giant Swarm's first AI product, a multi-agent orchestration platform, from prototype to first customers.
 
-Want to know more? Alright then, here is my CV. Get in touch if you want to know something specific. 
+That same focus runs through most of my talks and writing, collected on the [Portfolio](/portfolio) page. The roles below show what it looks like when applied in practice.
+
+I love product management, product ops, cloud, people, improving lives, good food, applied AI, history and more.
+
+Get in touch if you want to know something specific.
   </v-col>         
 </v-row>
 
 
 ## Practical Experience
 
-Since 10/2022 **Product Manager Observability Platform**\
+Since 01/2026 **Group Product Manager, Platforms**\
 *Giant Swarm GmbH*
-* Took over the monitoring team and moved the product from a internal-only monitoring stack to a customer centric observability platform, solving adoption issues through value-driven development.
-* Helped with the overall re-positioning of our organisation on the market by creating a more modular, flexible offering to reduce onboarding hurdles for prospects.
-* Created a new Kubernetes Foundation team and aligned team and organisation on a compelling vision driving outcome focus and cross-team collaboration for key-processes like releases. 
-* Introduced a new Infrastructure Provider for our Platform Product allowing us to onboard a new key account to Microsoft's Azure Cloud.
-* Helped shape our internal product management practice, product-revenue-alignment, product marketing and branding by contributing to multiple internal community-of-practices and external events. 
+* Driving Giant Swarm's first AI product as product lead: infrastructure to run AI agents as workloads (composable agents, agent runtime, and tool access), so organisations can put agents to work with confidence. Leading it end to end from prototype to first customers.
+* Leading product strategy and go-to-market for Giant Swarm's platform portfolio across five teams. The current priority is to grow the customer base and total revenue through scale rather than through high upfront commitments: a new modular offering lets customers start at a four-figure entry point instead of a six-figure one, with a clear cross- and upsell path from there.
+
+<hr/>
+
+10/2022 - 12/2025 **Platform Product Manager, Observability**\
+*Giant Swarm GmbH*
+* Led the Observability Platform through its evolution from an internal-only monitoring stack with limited customer adoption into a separately sold product line that today monitors hundreds of customer clusters in production and established a new product category for Giant Swarm alongside the core platform offering.
+* Owned the product end to end across positioning, roadmap, pricing, and the close collaboration with engineering, sales, and marketing needed to bring it to market. This work also helped seed Giant Swarm's broader move toward a more modular commercial model.
 
 <hr/>
 
 02/2021 - 09/2022 **Technical Product Owner STACKIT AppCloud**\
-*Giant Swarm GmbH*
-* Took over the PaaS product based on Cloud Foundry and aligned team and stakeholders on a new, clear product vision.
-* Improved developer productivity by introducing and aligning on easy agile processes and product management best practices.
-* Helped onboard multiple customers and streamlined onboarding process with documentation, talks and workshops.
-* Gained customer trust by significantly reducing used error budget and created monitoring transparency for key components.
+*Schwarz IT KG / STACKIT*
+* Owned the product strategy and roadmap for AppCloud, a Cloud Foundry-based PaaS that became the first STACKIT product to reach production. Brought the first internal teams and the first external paying customers onto the platform.
+* Built stakeholder and customer trust through a clear product vision, transparent monitoring, and significantly reduced error-budget burn, and shaped the strategic positioning of AppCloud against raw Kubernetes-based alternatives.
 
 <hr/>
 
 04/2019 – 02/2021 **DevLead Mindshift CMS – Lidl Online Shop**\
 *Schwarz IT KG*
-* Rolled out a new CMS platform to multiple countries making internal customers happy with significantly improved and intuitive UX allowing faster campaign cycles.
-* Helped empower team to become cross-functional and introduced DevOps Mindset while migrating the online shop CMS platform to the cloud.
-* Significantly reduced our delivery speed by improving processes and automation and reducing our large technical debt backlog to nearly zero.
+* Led the Lidl Online Shop CMS team through its migration to the cloud and its transition into a cross-functional DevOps unit. Rolled the new platform out to multiple countries with significantly faster delivery cycles and a more intuitive UX for internal users.
+* Reduced a large legacy technical debt backlog close to zero through automation, deliberate process work, and a cultural shift in how the team approached delivery.
 
 <hr/>
 
 02/2018 – 03/2019 **Software Engineer Lidl Online Shop**\
 *Schwarz IT KG / Lidl Digital International GmbH & Co.KG*
-* Helped design and build new online shop platform based on micro-frontend architecture and create communities of practice.
+* Co-designed and built the new Lidl Online Shop platform on a micro-frontend architecture, and helped establish the engineering communities of practice that supported it.
 
 <hr/>
 
 04/2015 – 01/2018 **Software Engineer Kaufland Online Shop**\
 *Kaufland Informationssysteme GmbH & Co.KG*
-* First as a working student then as a full time employee working on test and delivery automation, as well as driving customer conversion rates in the shop frontend.
+* From working student to full-time engineer, owned parts of test and delivery automation as well as the shop frontend, with measurable contributions to customer conversion.
 
 ## Education
 
@@ -68,15 +71,16 @@ API Fundamentals – from conception to technical implementation and maintenance
 *Heilbronn University*
 
 ## Others
-Other Experiences include:
-* I love to actively contribute to the community
-  * Speaker on conferences and MeetUps like WJAX 2018, DevOpsCon 2021 and 2022, WeAreDevelopers 2022, Digitale Leute Summit 2023, Product Owner Days 2024, and more
-  * Wrote multiple Blog and Magazine Articles about various topics around Platforms, Cloud and APIs and a book about API Design with GraphQL (ISDN: 978-3-86490-784-5)
-  * Actively contributing to the Cloud Native Computing Foundation, for example in the Platforms Working Group
-  * Created the concept of and organised two conference formats with the MeetIT Heilbronn and Schwarz IT internal Developer Conference SITCon
-* 2019-2020 Lecturer for fundamentals of software engineering at Heilbronn University
-* 2019-2021 Culture- and Change Agent for Schwarz IT, actively supporting the enterprise-wide organisational and cultural changes.
-* 2018-2019 Board Member of the IT Networking Club connect.it Heilbronn
-* 2015-2017 Head of the Students Representation of the Faculty IT at Heilbronn University
 
-For more see [Portfolio](/portfolio)
+I love to actively contribute to the community. The [Portfolio](/portfolio) has the full collection of talks and writing. The recurring topics there are product thinking in platform engineering, platform-as-a-product, observability, and increasingly agentic engineering as the natural next step. I have spoken on these at conferences including KubeCon, ContainerDays, DevOpsCon, WeAreDevelopers, OSMC, Cloud Native Summit, and Continuous Lifecycle.
+
+A few other things worth mentioning:
+* Active contributor to the **Cloud Native Computing Foundation**, including its Platforms Working Group.
+* Author of the book **API Design with GraphQL** (ISBN 978-3-86490-784-5).
+* Co-created and organised two conference formats: **MeetIT Heilbronn** and the Schwarz IT internal developer conference **SITCon**.
+* **2019–2020** Lecturer for fundamentals of software engineering at *Heilbronn University*.
+* **2019–2021** Culture and Change Agent for *Schwarz IT*, supporting enterprise-wide organisational and cultural change.
+* **2018–2019** Board Member of the IT Networking Club **connect.it Heilbronn**.
+* **2015–2017** Head of the Students' Representation of the Faculty IT at *Heilbronn University*.
+
+For more see [Portfolio](/portfolio).

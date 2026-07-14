@@ -18,8 +18,23 @@ If you want to know more about the listed things or things, I did not list here,
 
 ## Events & Talks
 
+**What Platform-as-a-Product Actually Means (And What Most Teams Get Wrong)**\
+2026, at [CLC Conference](https://clc-conference.eu/veranstaltung-88330-0-what-platform-as-a-product-actually-means-and-what-most-teams-get-wrong.html)
+
+**Capability-as-a-Service:** - Self-Hosted Observability That Feels Like SaaS\
+2026, at [OSMC - Open Source Monitoring Conference](https://osmc.de/talks/capability-as-a-service-self-hosted-observability-that-feels-like-saas/)
+
+**Stop Renaming Teams, Start Product Thinking:** - A PM's Guide to Platform-as-a-Product\
+2026, at [WeAreDevelopers World Congress Berlin](https://www.wearedevelopers.com/world-congress/agenda/sessions/stop-renaming-teams-start-product-thinking-a-pm-s-guide-to-platform-as-a-product-1111825)
+
+**The AI-Empowered Team:** - A PM's Guide to What Actually Works\
+2026, at [Cloud Native Summit Munich](https://www.cnsmunich.com/schedule?event=1141145)
+
 **Overwhelmed by Scale:** - How Product Thinking Fixes Platform Teams\
 2026, at [KubeCon: Platform Egnineering CoLo Day](https://www.youtube.com/watch?v=3tXR74tbAc4)
+
+**Von Tech-Tools zur Plattform:** - Wie aus chaotischem Monitoring ein gutes Produkt wurde\
+2026, at [Product Owner Days Cologne](https://product-owner-day.de/programm.php)
 
 **Think Big: Monitoring Stack was yesterday** - Observability Platform at scale!\
 2025, at [OpenSourceMonitoringConference](https://www.youtube.com/watch?v=rRZJaO8-8IE)\
@@ -86,6 +101,15 @@ If you want to know more about the listed things or things, I did not list here,
 2018, at [Vue.js MeetUp Stuttgart #1](https://www.meetup.com/de-DE/Stuttgart-Vue-js-Meetup/events/256448251)
 
 ## Publications
+
+**Stop Talking About Taste. Start Talking About Intent.**\
+2026, on [LinkedIn Blog](https://www.linkedin.com/pulse/stop-talking-taste-start-intent-dominik-schmidle-ej3jf/)
+
+**Overwhelmed by scale: how product thinking fixes platform teams**\
+2026, on [Giant Swarm Blog](https://www.giantswarm.io/blog/overwhelmed-by-scale-how-product-thinking-fixes-platform-teams)
+
+**Kurz erklärt: Agent Harness**\
+2026, in [iX Magazin 7/2026 / heise+](https://www.heise.de/select/ix/2026/7/2612508592366029749)
 
 **See everything, own your data: the Giant Swarm Observability Platform**\
 2026, on [GiantSwarm Blog](https://www.giantswarm.io/blog/see-everything-own-your-data-the-giant-swarm-observability-platform)
