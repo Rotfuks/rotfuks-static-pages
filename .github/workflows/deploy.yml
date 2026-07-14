@@ -30,14 +30,25 @@ jobs:
       - name: Build
         run: npm run docs:build
 
-      # Syncs dist/ to the FTP root: uploads changed files, deletes removed
-      # ones, and only transfers what changed (tracked via a state file on the
-      # server). Pinned to a commit SHA rather than a moving tag for supply-chain safety.
-      - name: Deploy via FTP (sync)
-        uses: SamKirkland/FTP-Deploy-Action@110f9186c050f71550953127052e77650219c287 # v4.4.0
-        with:
-          server: ftp.rotfuks.de
-          username: deploy-service
-          password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ./content/.vitepress/dist/
-          server-dir: /
+      - name: Install lftp
+        run: sudo apt-get update && sudo apt-get install -y lftp
+
+      # Mirror dist/ to the FTP root: uploads changed files and deletes ones
+      # removed locally (--delete), so the server always matches the build.
+      # lftp is far more tolerant of quirky FTP servers than basic-ftp clients.
+      - name: Deploy via FTP (mirror)
+        env:
+          LFTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+        run: |
+          lftp -c "
+          set cmd:fail-exit true;
+          set net:max-retries 3;
+          set net:timeout 20;
+          set ftp:ssl-allow true;
+          set ftp:ssl-force false;
+          set ftp:ssl-protect-data true;
+          set ssl:verify-certificate no;
+          set ftp:list-options -a;
+          open --env-password -u deploy-service ftp.rotfuks.de;
+          mirror --reverse --delete --verbose ./content/.vitepress/dist/ /;
+          "
