@@ -18,23 +18,26 @@ If you want to know more about the listed things or things, I did not list here,
 
 ## Events & Talks
 
-**What Platform-as-a-Product Actually Means (And What Most Teams Get Wrong)**\
+**What Platform-as-a-Product Actually Means** (And What Most Teams Get Wrong)\
 2026, at [CLC Conference](https://clc-conference.eu/veranstaltung-88330-0-what-platform-as-a-product-actually-means-and-what-most-teams-get-wrong.html)
 
 **Capability-as-a-Service:** - Self-Hosted Observability That Feels Like SaaS\
 2026, at [OSMC - Open Source Monitoring Conference](https://osmc.de/talks/capability-as-a-service-self-hosted-observability-that-feels-like-saas/)
 
+**From Laptop to Cluster:** What It Takes to Run Autonomous AI Agents on K8S\
+2026, at [KubeAutoDay Berlin](https://kubeauto.day/berlin)
+
 **Stop Renaming Teams, Start Product Thinking:** - A PM's Guide to Platform-as-a-Product\
-2026, at [WeAreDevelopers World Congress Berlin](https://www.wearedevelopers.com/world-congress/agenda/sessions/stop-renaming-teams-start-product-thinking-a-pm-s-guide-to-platform-as-a-product-1111825)
+2026, at [WeAreDevelopers World Congress Berlin](https://www.wearedevelopers.com/videos/100342-stop-renaming-teams-start-product-thinking-a-pm-s-guide-to-platform-as-a-product)
 
 **The AI-Empowered Team:** - A PM's Guide to What Actually Works\
-2026, at [Cloud Native Summit Munich](https://www.cnsmunich.com/schedule?event=1141145)
+2026, at [Cloud Native Summit Munich](https://www.youtube.com/watch?v=SDelo4VdPUk)
 
 **Overwhelmed by Scale:** - How Product Thinking Fixes Platform Teams\
 2026, at [KubeCon: Platform Egnineering CoLo Day](https://www.youtube.com/watch?v=3tXR74tbAc4)
 
 **Von Tech-Tools zur Plattform:** - Wie aus chaotischem Monitoring ein gutes Produkt wurde\
-2026, at [Product Owner Days Cologne](https://product-owner-day.de/programm.php)
+2026, at [Product Owner Days Cologne](https://www.youtube.com/watch?v=0FlN85DLrFI)
 
 **Think Big: Monitoring Stack was yesterday** - Observability Platform at scale!\
 2025, at [OpenSourceMonitoringConference](https://www.youtube.com/watch?v=rRZJaO8-8IE)\
