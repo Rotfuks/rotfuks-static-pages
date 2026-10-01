@@ -28,7 +28,7 @@ If you want to know more about the listed things or things, I did not list here,
 2026, at [KubeAutoDay Berlin](https://kubeauto.day/berlin)
 
 **Stop Renaming Teams, Start Product Thinking:** - A PM's Guide to Platform-as-a-Product\
-2026, at [WeAreDevelopers World Congress Berlin](https://www.wearedevelopers.com/videos/r100342-stop-renaming-teams-start-product-thinking-a-pm-s-guide-to-platform-as-a-product)
+2026, at [WeAreDevelopers World Congress Berlin](https://www.wearedevelopers.com/videos/100342-stop-renaming-teams-start-product-thinking-a-pm-s-guide-to-platform-as-a-product)
 
 **The AI-Empowered Team:** - A PM's Guide to What Actually Works\
 2026, at [Cloud Native Summit Munich](https://www.youtube.com/watch?v=sRbaMwAb3ps)
