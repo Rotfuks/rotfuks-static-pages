@@ -105,6 +105,9 @@ If you want to know more about the listed things or things, I did not list here,
 
 ## Publications
 
+**Spec-Driven Development:** How We Review Plans, Not Pull Requests\
+2026, on [LinkedIn Blog](https://www.linkedin.com/pulse/spec-driven-development-how-we-review-plans-pull-dominik-schmidle-v3y7f/)
+
 **Stop Talking About Taste. Start Talking About Intent.**\
 2026, on [LinkedIn Blog](https://www.linkedin.com/pulse/stop-talking-taste-start-intent-dominik-schmidle-ej3jf/)
 
